@@ -1,0 +1,22 @@
+Recursos de Software necessários para cada etapa do XP
+
+Etapa 1: Exploração
+- Software de apresentação de slides
+- Software de anotações
+
+Etapa 2: Planejamento Inicial
+- Software de Modelagem
+- IDE de desenvolvimento na linguagem escolhida
+- Software de comunicação instantânea
+
+Etapa 3: Iterações do Release
+- SGBD (caso aplicável)
+- IDE de desenvolvimento na linguagem escolhida
+
+Etapa 4: Manutenção
+- SGBD (caso aplicável)
+- IDE de desenvolvimento na linguagem escolhida
+
+Etapa 5: Morte
+- Software de apresentação de slides
+- Software de anotações

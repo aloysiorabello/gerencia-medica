@@ -1,0 +1,20 @@
+Recursos Humanos necessários para cada etapa do XP
+
+Etapa 1: Exploração
+- Equipe completa (programadores, analista, designer etc)
+
+Etapa 2: Planejamento Inicial
+- Gerente de Projeto
+- Analista
+- Cliente
+
+Etapa 3: Iterações do Release
+- Programadores
+
+Etapa 4: Manutenção
+- Analista
+- Programadores
+
+Etapa 5: Morte
+- Gerente de Projeto
+- Cliente

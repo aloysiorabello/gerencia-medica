@@ -1,0 +1,16 @@
+Recursos de Hardware necessários para cada etapa do XP
+
+Etapa 1: Exploração
+- Projetor de imagens
+
+Etapa 2: Planejamento Inicial
+- Computador completo
+
+Etapa 3: Iterações do Release
+- Computador completo
+
+Etapa 4: Manutenção
+- Computador completo
+
+Etapa 5: Morte
+- Projetor de imagens

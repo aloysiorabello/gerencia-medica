@@ -1,0 +1,18 @@
+Documentos a serem gerados em cada etapa do XP
+
+Etapa 1: Exploração
+- Documento de requisitos
+
+Etapa 2: Planejamento Inicial
+- Diagrama de classes
+- Diagrama de casos de uso
+
+Etapa 3: Iterações do Release
+- Documentação da funcionalidade implementada
+
+Etapa 4: Manutenção
+- Documentação da manutenção realizada
+
+Etapa 5: Morte
+- Documentação de entrega do projeto
+- Manual de utilização do software
