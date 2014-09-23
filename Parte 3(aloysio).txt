@@ -7,14 +7,12 @@
 	O XP:
 	
 	Metodologia de desenvolvimento de software aperfeiçoada nos últimos 7 anos.
-	Ganhou notoriedade a partir da OOPSLA’2000
-	Nome principal: Kent Beck
+	
 	Processo de desenvolvimento de sw inovador
+	
 	Disciplina de desenvolvimento de sw que valoriza a simplicidade, comunicação, feedback, respeito e coragem
 	Busca assegurar máxima geração de valor para o cliente com: Alta qualidade, Agilidade, Flexibilidade e Custo reduzido
 	O XP utiliza o conceito de simplicidade em inúmeros aspectos do projeto
-		Para assegurar que a equipe se concentre em fazer, primeiro, apenas aquilo que é claramente necessário e
-		Evite fazer o que poderia vir a ser necessário, mas ainda não se provou essencial
 		
 	VALORES:
 		Coregem
@@ -23,7 +21,6 @@
 		Comunicação
 		
 	Revisão e Teste:
-		Atividades de Revisão Conjunta
 		Pair Programming
 		Atividades de Teste
 			Teste de Unidade
@@ -38,15 +35,13 @@
 		Planejamento serve para fornecer uma compreensão mútua, para informar as partes quanto tempo, aproximadamente, levará o projeto
 		
 	Stand-up meeting
-		Mantenha as reuniões curtas
-		XP usa as reuniões em pé
+		Reuniões curtas em pé
 		O conceito é simples: não são permitidas cadeiras
-		Se todos estiverem em pé, a reunião será rápida e objetiva
 		A melhor hora para uma reunião em pé é todos os dias pela manhã após todos terem chegado
 		
 	PQXP?		
 		Grupos de 2 a 10 programadores
-		Projetos de 1 a 36 meses (calendário)
+		Projetos de 1 a 36 meses
 		De 1000 a 250 000 linhas de código
 		Papéis:
 			Programadores (foco central)(sem hierarquia)
