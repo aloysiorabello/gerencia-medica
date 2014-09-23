@@ -1,0 +1,61 @@
+	Requisitos de usuário, pressões de tempo, competição, qualidade e recursos (base inicial do projeto) podem sofrer alterações.
+	Indivíduos e interações são mais importantes que processos e ferramentas
+	Software funcionando é mais importante que documentação completa
+	Adaptação às mudanças é mais importante que seguir um plano
+	
+	
+	O XP:
+	
+	Metodologia de desenvolvimento de software aperfeiçoada nos últimos 7 anos.
+	
+	Processo de desenvolvimento de sw inovador
+	
+	Disciplina de desenvolvimento de sw que valoriza a simplicidade, comunicação, feedback, respeito e coragem
+	Busca assegurar máxima geração de valor para o cliente com: Alta qualidade, Agilidade, Flexibilidade e Custo reduzido
+	O XP utiliza o conceito de simplicidade em inúmeros aspectos do projeto
+		
+	VALORES:
+		Coregem
+		Feedback
+		Respeito
+		Comunicação
+		
+	Revisão e Teste:
+		Pair Programming
+		Atividades de Teste
+			Teste de Unidade
+			Teste de Aceitação
+		
+	Use metáforas para descrever os conceitos difíceis
+		Uma metáfora é uma forma poderosa de relacionar uma idéia difícil em uma área desconhecida
+		Funcionalidades são informadas através de estórias (Estórias devem ser simples)
+		
+	Planejamento
+	Projetos de desenvolvimento de sw de qualquer tamanho significativo precisam ser planejados.
+		Planejamento serve para fornecer uma compreensão mútua, para informar as partes quanto tempo, aproximadamente, levará o projeto
+		
+	Stand-up meeting
+		Reuniões curtas em pé
+		O conceito é simples: não são permitidas cadeiras
+		A melhor hora para uma reunião em pé é todos os dias pela manhã após todos terem chegado
+		
+	PQXP?		
+		Grupos de 2 a 10 programadores
+		Projetos de 1 a 36 meses
+		De 1000 a 250 000 linhas de código
+		Papéis:
+			Programadores (foco central)(sem hierarquia)
+			“Treinador” (coach)
+			“Acompanhador” (tracker)
+			Cliente
+			
+	Interações utilizadas:
+		
+		1 Iteração: Documento de requisitos e diagrama de classes 
+		2 Iteração: Estrutura analítica
+		3 Iteração: Estimativas
+		4 Iteração: Protótipo
+		5 Iteração: Casos de Teste
+		6 Iteração: Implementação do Protótipo
+		
+		Total = 6.
