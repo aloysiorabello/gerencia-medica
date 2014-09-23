@@ -1,4 +1,4 @@
-	Requisitos de usuário, pressões de tempo, competição, qualidade e recursos (base inicial do projeto) podem sofrer alterações.
+﻿	Requisitos de usuário, pressões de tempo, competição, qualidade e recursos (base inicial do projeto) podem sofrer alterações.
 	Indivíduos e interações são mais importantes que processos e ferramentas
 	Software funcionando é mais importante que documentação completa
 	Adaptação às mudanças é mais importante que seguir um plano
@@ -59,3 +59,11 @@
 		6 Iteração: Implementação do Protótipo
 		
 		Total = 6.
+
+	Ciclo de vida de um Projeto XP
+		1 Fase de exploração (2 semanas): Anterior à construção do sistema. Equipe de desenvolvimento e Cliente se reunem para discutir o produto final e enumerar possíveis soluções/tecnologias.
+		2 Fase de planejamento inicial (2 a 4 meses): Planejamento de cada release. Definição das estórias, prazos e prioridades para o release seguinte.
+		3 Fase das iterações do release (1 a 3 semanas): Implementação (escrita dos casos de testes, projeto e refatoramento, codificação, realização dos testes e integração) de um número pré-definido de estórias
+		4 Fase de manutenção (simultâneamente às iterações): Correções de bugs e adequações ao projeto
+		5 Fase de morte (N/D): O cliente aprova a entrega do projeto.
+	fonte: http://www.cin.ufpe.br/~gamr/FAFICA/Desenvolvimento%20de%20sistemas/XP.pdf
