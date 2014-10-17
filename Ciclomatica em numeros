@@ -4,7 +4,7 @@ o segundo imediatamente, sem blocos intermediários.
 
 A complexidade então é definida como:
 
-    M = E - N + 2 \times P
+    M = E - N + 2 * P
 
 Em que:
 
