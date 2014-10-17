@@ -1,0 +1,14 @@
+Matematicamente, a complexidade ciclomática de um programa estruturado é definida com referência ao grafo direcionado 
+que contém os blocos básicos do programa, com uma aresta entre dois blocos se o controle pode passar do primeiro para 
+o segundo imediatamente, sem blocos intermediários. 
+
+A complexidade então é definida como:
+
+    M = E - N + 2 \times P
+
+Em que:
+
+    M – complexidade ciclomática
+    E – quantidade de setas
+    N – quantidade de nós
+    P – quantidade de componentes conectados
