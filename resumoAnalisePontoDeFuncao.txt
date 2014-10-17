@@ -1,0 +1,85 @@
+Contagem de Pontos de Função: significa medir o tamanho do software
+Estimativa de Pontos de Função: avaliação aproximada do tamanho de um software
+Contagem Estimativa de Pontos de Função (CEPF):
+	Obtém o tamanho do software em PF de forma simplificada
+		Se baseia nos requisitos iniciais do sistema
+		Fornece uma estimativa inicial
+Inicialmente, são levantados os requisitos funcionais do sistema:
+	1. nas propostas comerciais;
+	2. nos documentos de visão;	
+	3. em formalização simples de requisitos;
+	4. em qualquer especificação inicial do sistema do usuário.
+Posteriormente, esses requisitos são mapeados nos tipos
+
+funcionais:
+	ARQUIVOS LÓGICOS INTERNOS (ALI)
+	ARQUIVOS DE INTERFACE EXTERNA (AIE)
+	ENTRADA EXTERNA
+	CONSULTA EXTERNA
+	SAÍDA EXTERNA
+		ARQUIVOS LÓGICOS INTERNOS (ALI)
+	Banco de Dados Lógico da Aplicação (tabelas e arquivos mantidos pela aplicação)
+COMPLEXIDADE
+	Simples: x 7 PF
+	Média: x 10 PF
+	Complexa: x 15 PF
+COMPLEXIDADE PADRÃO
+	Simples
+		ARQUIVOS DE INTERFACE EXTERNA (AIE)
+Banco de Dados de outras Aplicações, apenas referenciados pela aplicação
+	COMPLEXIDADE
+		Simples: x 5 PF
+		Média: x 7 PF
+		Complexa: x 10 PF
+			COMPLEXIDADE PADRÃO
+			Simples
+	ENTRADA EXTERNA (EE)
+Funcionalidades que mantêm os Arquivos Lógicos Internos (ALIs)
+	alteram o comportamento da aplicação
+	COMPLEXIDADE
+		Simples: x 3 PF
+		Média: x 4 PF
+		Complexa: x 6 PF
+			COMPLEXIDADE PADRÃO
+Média
+	CONSULTA EXTERNA (CE)
+	Funcionalidades que apresentam informações
+	Não fazem uso de cálculos ou algoritmos
+		COMPLEXIDADE
+			Simples: x 3 PF
+			Média: x 4 PF
+			Complexa: x 6 PF
+	COMPLEXIDADE PADRÃO
+		Média
+SAÍDA EXTERNA (SE)
+	Funcionalidades que apresentam informações
+	Utilizam cálculos ou algoritmos para derivação dos dados
+	Atualização de Arquivos Lógicos Internos
+	Mudança de comportamento da aplicação
+	COMPLEXIDADE
+		Simples: x 4 PF
+		Média: x 5 PF
+		Complexa: x 7 PF
+	COMPLEXIDADE PADRÃO
+		Média
+	Processo Elementar Tipo Complexidade PF
+	Usuário ALI BAIXA 7
+	Cadastrar Usuário EE MÉDIA 4
+	Calcular Valor da
+	Multa
+	SE MÉDIA 5
+	Fazer Login CE MÉDIA 4
+	
+Atribuição de tipos funcionais
+	Cálculo dos Pontos de Função (TPF)
+	Atribuir aos requisitos seus tipos funcionais
+	Definir a complexidade e número de pontos de função
+	Somar todos os pontos de função (TPF)
+	Ajuste dos Pontos de Função (PFA)
+		PFA = TPF * VAF
+FATOR DE AJUSTE DA CONTAGEM (VAF)
+	Obtido a partir das Características Gerais do Sistema;
+	Para cada característica, determinar seu nível de influência (NI), em uma escala de 0 a 5;
+	No final, somar todos os NIs para produzir o total de nível de influência (TDI).
+		VAF = (TDI * 0,01) + 0.65
+
