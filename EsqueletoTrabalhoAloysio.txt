@@ -47,6 +47,7 @@ Reunião de Retrospectiva (Sprint Retrospective)
 	-Faça melhorias contínuas de processos.
 	-Duas questões principais são feitas na retrospectiva do sprint: 
 		-O que correu bem durante a corrida? 
+<<<<<<< HEAD
 		-O que poderia ser melhorado na próxima sprint?
 		
 
@@ -67,3 +68,6 @@ Scrum Solo
 		backlog de sprint
 		sprint
 		retrospectiva de sprint
+=======
+		-O que poderia ser melhorado na próxima sprint?
+>>>>>>> 1a383ce496488d9f7ea361dba470c996ffd875ca
