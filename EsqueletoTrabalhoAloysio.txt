@@ -1,0 +1,69 @@
+Reuniões
+
+	-Horário?
+	-Como?
+	-Onde?
+	-Poruqe?
+	-Quais?
+		-Retrospective
+		-Review
+		-Daily
+		-Planning
+	
+Reunião Diária (Daily Scrum Meeting)
+
+	reunião de status
+	
+	Caracteristicas
+		Pontual
+		Todos são bem-vindos
+		duração
+		local
+		horario
+		
+	Durante a reunião, cada membro da equipe responde a três perguntas:
+	O que você tem feito desde ontem?
+	O que você está planejando fazer hoje?
+
+Reunião de Planejamento (Sprint Planning Meeting)
+
+	-Quando
+	-Preparo do Sprint Backlog
+	-Identificar quais prazos são alcançáveis
+	-Dividida em duas partes:
+		Parte 1 : Team Product Owner: diálogo para priorizar o Product Backlog.
+		Parte 2 : Team apenas: hash de um plano para a Sprint, resultando na Sprint Backlog.
+		
+Reunião de Revisão (Sprint Review)
+	
+	-Realizado no final da sprint
+	-Rever o trabalho que foi concluído e não concluído.
+	-Apresentar o trabalho realizado para os stakeholders (ou "a demo"). 
+	-Um trabalho incompleto não pode ser demonstrado.
+	
+Reunião de Retrospectiva (Sprint Retrospective)
+
+	-Todos os membros da equipe refletem sobre a sprint passada.
+	-Faça melhorias contínuas de processos.
+	-Duas questões principais são feitas na retrospectiva do sprint: 
+		-O que correu bem durante a corrida? 
+		-O que poderia ser melhorado na próxima sprint?
+		
+
+Scrum simplificado
+
+	-Que é?
+	-Porque simplificado?
+	-passos:
+		Agende uma demonstração do software com seu cliente em um mês a partir de agora;
+		Como equipe, tome um mês para deixar o software pronto para uma demo, com funcionalidades prontas, não simplesmente telas;
+		Na demonstração, obtenha feedback e use-o para guiar o seu próximo mês de trabalho de desenvolvimento.
+
+Scrum Solo
+
+	-É uma versão adaptada para uso de programadores solo.
+	-Beneficios mantidos:
+		backlog de produto
+		backlog de sprint
+		sprint
+		retrospectiva de sprint
