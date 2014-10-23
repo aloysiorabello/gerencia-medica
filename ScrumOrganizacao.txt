@@ -1,0 +1,24 @@
+Tópicos Scrum
+
+1 História #Parte do Vinicius
+2 Características #Parte do Vinicius
+3 Gerenciamento Ágil de Projetos com Scrum #Parte do Vinicius
+4 Sprint (corrida, tiro) #Parte do Vinicius
+
+5 Papéis #Parte do Lucas
+	5.1 Papéis principais #Parte do Lucas
+	5.2 Papéis auxiliares #Parte do Lucas
+6 Artefatos #Parte do Lucas
+	6.1 BACKLOG
+		6.1.1 Product Backlog #Parte do Lucas
+		6.1.2 Sprint Backlog #Parte do Lucas 
+	6.2 Burndown Chart #Parte do Lucas
+
+7 Reuniões SCRUM #Parte do Aloysio
+8 Scrum simplificado #Parte do Aloysio
+9 Scrum Solo #Parte do Aloysio
+
+Sujestão do Vinicius:
+
+Patrocinadores #Parte do João
+Emp. que usam scrum #Parte do João
