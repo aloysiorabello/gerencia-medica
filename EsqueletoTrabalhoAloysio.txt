@@ -22,8 +22,8 @@ Reunião Diária (Daily Scrum Meeting)
 		horario
 		
 	Durante a reunião, cada membro da equipe responde a três perguntas:
-	O que você tem feito desde ontem?
-	O que você está planejando fazer hoje?
+		O que você tem feito desde ontem?
+		O que você está planejando fazer hoje?
 
 Reunião de Planejamento (Sprint Planning Meeting)
 
@@ -47,7 +47,6 @@ Reunião de Retrospectiva (Sprint Retrospective)
 	-Faça melhorias contínuas de processos.
 	-Duas questões principais são feitas na retrospectiva do sprint: 
 		-O que correu bem durante a corrida? 
-<<<<<<< HEAD
 		-O que poderia ser melhorado na próxima sprint?
 		
 
@@ -68,6 +67,10 @@ Scrum Solo
 		backlog de sprint
 		sprint
 		retrospectiva de sprint
-=======
-		-O que poderia ser melhorado na próxima sprint?
->>>>>>> 1a383ce496488d9f7ea361dba470c996ffd875ca
+		
+Perguntas:
+
+Quais as vantagens de se fazer reunião no horário do almoço?
+Que é Scrum simplificado?
+Que é scrum solo?
+Quando ocorre a Reunião de Revisão e Reunião de Retrospectiva?
