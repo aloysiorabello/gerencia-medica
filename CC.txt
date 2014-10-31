@@ -1,0 +1,36 @@
+●Complexidade Ciclomática (CC)
+
+●Que é CC?
+○ Proposta por McCabe em 1976, fornece uma medida
+quantitativa da complexidade lógica de um software.
+○ Através dessa métrica é possível definir o número de
+caminhos possíveis de um algoritmo através do seu
+número de condições (Exemplo if, for, while, e switch) e
+assim, especificar o quanto um sistema é complexo.
+○ O ideal é que a complexidade ciclomática seja baixa,
+pois desta forma, as funções podem ser mais facilmente
+entendidas e modificadas.
+
+● Que é CC?
+○ Se o sistema analisado possuir alguma função mais
+complexa, nós podemos direcionar recursos para
+resolver o problema, aproveitando melhor o tempo e
+custo de implementação.
+
+Métrica do Sistema.
+● Complexidade dos UC’s:
+○ “Tecnologia” utilizada.
+○ Tempo computacional.
+○ Dificuldade de implementação.
+○ Notas de 0 à 5 de acordo com a análise.
+
+Complexidade do Sistema.
+○ Analise das Métricas: [iamgem]
+
+
+● Mas qual a métrica do sistema?
+○ Basta somar as complexidades dos UC’s e dividir pelo
+total de UC’s.
+○ Ou seja a média das métricas dos UC’s é a métrica do
+total do sistema.
+○ Então a métrica do Software de gestão de estoque é 3.0 .
