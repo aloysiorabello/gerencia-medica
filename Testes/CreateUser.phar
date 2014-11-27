@@ -1,0 +1,10 @@
+<?php
+$I = new ApiTester($scenario);
+$I->wantTo('create a new user by API');
+$I->amHttpAuthenticated('davert','123456');
+$I->haveHttpHeader('Content-Type','application/x-www-form-urlencoded');
+$I->sendPOST('/users', array('name' => 'davert' ));
+$I->seeResponseCodeIs(200);
+$I->seeResponseIsJson();
+$I->seeResponseContainsJson(array('result' => 'ok'));
+?>

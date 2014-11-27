@@ -1,0 +1,9 @@
+<?php;
+$this->assertEquals('users', User::tableName());
+test::double('User', ['tableName' => 'fake_users']);
+$this->assertEquals('fake_users', User::tableName());
+
+test::double('User', ['getEmail' => 'davert@mail.ua']);
+$user = new User;
+$this->assertEquals('davert@mail.ua', $user->getEmail());
+?>

@@ -1,0 +1,13 @@
+<?php
+use \Codeception\Util\Stub;
+class UserTest extends \Codeception\TestCase\Test
+{
+    public function testUserSave() {
+        $user = Stub::make('User');
+        $user->setName('davert');
+        $this->assertEquals('davert', $user->getName());
+        $user->save();
+        $this->tester->seeInDatabase('users', array('name' => 'davert'));
+    }
+}
+?>
